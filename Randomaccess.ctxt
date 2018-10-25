@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Randomaccess
+comment1.params=
+comment1.target=Randomaccess()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Randomaccess\r\n
+comment2.params=filePath
+comment2.target=java.lang.String\ readFromFile(java.lang.String)
+numComments=3

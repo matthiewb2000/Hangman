@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=hangman
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=event
+comment2.target=void\ handle(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=event
+comment5.target=void\ handle(javafx.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ handle(javafx.event.ActionEvent)
+numComments=7
